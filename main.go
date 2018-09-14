@@ -12,7 +12,7 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/ethclient"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	store "./contracts"
+	store "github.com/lanxingmo/ethcontract-go-example/contracts"
 )
 
 
